@@ -7,9 +7,9 @@ Contributions are welcome in several forms:
 - **Corrections** — fix factual, historical, textual, or interpretive errors.
 - **Enhancements** — add missing arguments, thinkers, concepts, sources, or context.
 - **Alternative interpretations** — explain where a tradition or school is reasonably interpreted differently.
-- **New perspectives** — share your own reasoned perspective under `perspectives/community/`.
+- **New perspectives** — share your own reasoned perspective under `perspectives/`.
 - **New questions** — propose important questions for comparative investigation.
-- **Debates** — contribute human or AI-assisted philosophical debates.
+- **Debates** — <Will announce the date of first debate>
 
 Please distinguish clearly between primary sources, scholarly interpretation, scientific evidence, and personal interpretation.
 
